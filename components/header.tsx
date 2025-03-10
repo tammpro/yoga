@@ -11,7 +11,7 @@ export function Header() {
   const menuItems = [
     { to: 'about', label: 'YOGA STUDIOについて' },
     { to: 'classes', label: 'レッスン' },
-    { to: 'comparison', label: 'ホットヨガの特徴' },
+    { to: 'comparison', label: 'ヨガの特徴' },
     { to: 'trial', label: '体験レッスン' },
     { to: 'instructors', label: 'インストラクター' },
     { to: 'pricing', label: '料金案内' },
